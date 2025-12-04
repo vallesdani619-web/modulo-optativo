@@ -5,5 +5,4 @@ if edad < 0 or edad > 120:
 elif edad < 18:
     print("el alumno es menor de edad ")
 else:
-
     print("el alumno es mayor de edad")
